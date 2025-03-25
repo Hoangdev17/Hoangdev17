@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Tên của bạn]</h1>
+<h1 align="center">Hi 👋, I'm Lưu Việt Hoàng</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Developer;Lover+of+Code+%26+Tech;Always+Learning+New+Things" />
 </p>
@@ -7,10 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
-- 🌱 Hiện tại mình đang học: **MERN Stack**, **AI Integration**
-- 🧠 Mục tiêu: Trở thành **Fullstack Developer** & tham gia vào **dự án AI**
+- 🌱 Hiện tại mình đang học: **MERN Stack**
+- 🧠 Mục tiêu: Trở thành **Fullstack Developer** & tham gia vào **dự án Website**
 - 💬 Hỏi mình về: `React`, `Node.js`, `MongoDB`, `Express`
-- 📫 Kết nối với mình: [Email hoặc LinkedIn của bạn]
+- 📫 Kết nối với mình: hoangluudev17@gmail.com
 - ⚡ Fun fact: Mình rất thích refactor code gọn đẹp!
 
 ---
@@ -29,23 +29,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="your-username" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoangdev17&show_icons=true&theme=tokyonight" alt="Hoangdev17" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangdev17&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📌 Dự Án Nổi Bật
 
+- 🛒 **Portfolio** - Personal Portfolio.  
+  🔗 [Link GitHub](https://github.com/Hoangdev17/Portfolio.git) | [Demo](https://portfolio-weld-alpha-95.vercel.app/projects)
+
 - 🛒 **E-commerce MERN App** - Fullstack app có tính năng mua hàng, đăng nhập, giỏ hàng, admin panel.  
-  🔗 [Link GitHub](https://github.com/your-username/mern-ecommerce) | [Demo](https://yourdemo.com)
+  🔗 [Link GitHub](https://github.com/Hoangdev17/E_commerce_Web) | [Demo](https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/)
 
 - ✍️ **Blog App** - CRUD Blog, comment, like/dislike, auth với JWT  
-  🔗 [Link GitHub](https://github.com/your-username/mern-blog)
+  🔗 [Link GitHub]([https://github.com/your-username/mern-blog](https://github.com/Hoangdev17/BlogApp.git)) | [Demo]([https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/](https://blog-app-vert-xi.vercel.app/))
 
 ---
 
 ### 🌐 Kết nối với mình
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ho%C3%A0ng-l%C6%B0u-826a12353/))
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hoangluudev17@gmail.com)
