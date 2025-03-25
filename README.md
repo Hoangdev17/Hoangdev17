@@ -44,7 +44,7 @@
   🔗 [Link GitHub](https://github.com/Hoangdev17/E_commerce_Web) | [Demo](https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/)
 
 - ✍️ **Blog App** - CRUD Blog, comment, like/dislike, auth với JWT  
-  🔗 [Link GitHub]([https://github.com/your-username/mern-blog](https://github.com/Hoangdev17/BlogApp.git)) | [Demo]([https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/](https://blog-app-vert-xi.vercel.app/))
+  🔗 [Link GitHub](https://github.com/Hoangdev17/BlogApp.git) | [Demo](https://blog-app-vert-xi.vercel.app/)
 
 ---
 
