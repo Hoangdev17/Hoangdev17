@@ -36,7 +36,7 @@
 ---
 
 ### 📌 Dự Án Nổi Bật
-- ✍️ *Soty* - Social community platform.
+- ✍️ **Soty** - Social community platform.
   🔗 [Link GitHub](https://github.com/Hoangdev17/soty-fe.git) | [Demo](https://soty-fe.vercel.app/)
 
 - 🛒 **Portfolio** - Personal Portfolio.  
