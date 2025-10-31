@@ -68,7 +68,7 @@
 
 #### 💬 [SOTY – Social Community Platform](https://soty-fe.vercel.app/)
 > A real-time social community platform inspired by Discord, featuring chat channels, roles, permissions, and notification systems.  
-🌍 **Live Website:** [https://soty.world]([https://soty.world](https://soty-fe.vercel.app/))  
+🌍 **Live Website:** [soty-fe.vercel.app](https://soty-fe.vercel.app/)  
 🔗 **Frontend Repo:** [github.com/Hoangdev17/soty-fe](https://github.com/Hoangdev17/soty-fe)  
 🛠 **Tech:** VueJS, TailwindCSS, NestJS, MongoDB, WebSocket  
 
