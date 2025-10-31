@@ -36,6 +36,8 @@
 ---
 
 ### 📌 Dự Án Nổi Bật
+- ✍️ *Soty** - Social community platform
+  🔗 [Link GitHub](https://github.com/Hoangdev17/soty-fe.git) | [Demo](https://soty-fe.vercel.app/)
 
 - 🛒 **Portfolio** - Personal Portfolio.  
   🔗 [Link GitHub](https://github.com/Hoangdev17/Portfolio.git) | [Demo](https://portfolio-weld-alpha-95.vercel.app/projects)
@@ -43,8 +45,7 @@
 - 🛒 **E-commerce MERN App** - Fullstack app có tính năng mua hàng, đăng nhập, giỏ hàng, admin panel.  
   🔗 [Link GitHub](https://github.com/Hoangdev17/E_commerce_Web) | [Demo](https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/)
 
-- ✍️ **Blog App** - CRUD Blog, comment, like/dislike, auth với JWT  
-  🔗 [Link GitHub](https://github.com/Hoangdev17/BlogApp.git) | [Demo](https://blog-app-vert-xi.vercel.app/)
+
 
 ---
 
