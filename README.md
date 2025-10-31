@@ -1,55 +1,118 @@
-<h1 align="center">Hi 👋, I'm Lưu Việt Hoàng</h1>
+<h1 align="center">👋 Hi, I'm Lưu Việt Hoàng</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Developer;Lover+of+Code+%26+Tech;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Web+Developer;Passionate+about+Building+Communities;Lifelong+Learner+%26+Problem+Solver&center=true&width=600&height=45" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Hoangdev17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🌱 Hiện tại mình đang học: **MERN Stack**
-- 🧠 Mục tiêu: Trở thành **Fullstack Developer** & tham gia vào **dự án Website**
-- 💬 Hỏi mình về: `React`, `Node.js`, `MongoDB`, `Express`
-- 📫 Kết nối với mình: hoangluudev17@gmail.com
-- ⚡ Fun fact: Mình rất thích refactor code gọn đẹp!
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Fullstack Developer** — experienced in building scalable web platforms and interactive community systems.  
+- 🧠 Skilled in **VueJS, NuxtJS, NestJS, and REST APIs**, with strong understanding of both frontend and backend.  
+- 🚀 Passionate about crafting **user-centered applications** with real-time features and beautiful UIs.  
+- 🎓 Currently a **4th-year IT student** at University of Transport and Communications (UTC2).  
+- 📫 Reach me at: **hoangluudev17@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+#### 💻 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-VueJS-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NuxtJS-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REST%20APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-WebSocket-0082C9?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+#### 🗄️ Database & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 💼 Work Experience
+
+#### 🚀 **Fullstack Developer @ GOLIVEDEV**  
+📅 *Oct 2024 – Sept 2025*  
+🛠 **Tech stack:** VueJS, NuxtJS, TailwindCSS, TypeScript, NestJS, REST APIs, WebSocket  
+
+- Built and optimized a **web content management platform**, improving user experience and workflow.  
+- Developed a **drag-and-drop bio page builder**, enabling thousands of users to customize pages without coding.  
+- Delivered a **multi-product selling system** supporting digital goods, courses, and appointments.  
+- Enhanced **UI customization and personalization**, increasing conversion rates and engagement.  
+- Implemented **community features** with private/public groups, real-time chat, and notifications.
+
+---
+
+### 🧩 Featured Projects
+
+#### 💬 [SOTY – Social Community Platform](https://soty-fe.vercel.app/)
+> A real-time social community platform inspired by Discord, featuring chat channels, roles, permissions, and notification systems.  
+🌍 **Live Website:** [https://soty.world]([https://soty.world](https://soty-fe.vercel.app/))  
+🔗 **Frontend Repo:** [github.com/Hoangdev17/soty-fe](https://github.com/Hoangdev17/soty-fe)  
+🛠 **Tech:** VueJS, TailwindCSS, NestJS, MongoDB, WebSocket  
+
+---
+
+#### 🧑‍💼 [Portfolio – Personal Website](https://portfolio-weld-alpha-95.vercel.app/projects)
+> Showcasing personal projects and professional experience.  
+🔗 [GitHub Repository](https://github.com/Hoangdev17/Portfolio.git)  
+🛠 **Tech:** VueJS, TailwindCSS
+
+---
+
+#### 🛒 [E-commerce MERN App](https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/)
+> Fullstack e-commerce platform with authentication, cart, admin dashboard, and payment system.  
+🔗 [GitHub Repository](https://github.com/Hoangdev17/E_commerce_Web)  
+🛠 **Tech:** ReactJS, NodeJS, Express, MongoDB
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoangdev17&show_icons=true&theme=tokyonight" alt="Hoangdev17" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangdev17&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoangdev17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangdev17&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📌 Dự Án Nổi Bật
-- ✍️ **Soty** - Social community platform.
-  🔗 [Link GitHub](https://github.com/Hoangdev17/soty-fe.git) | [Demo](https://soty-fe.vercel.app/)
+### 🌐 Connect with Me
 
-- 🛒 **Portfolio** - Personal Portfolio.  
-  🔗 [Link GitHub](https://github.com/Hoangdev17/Portfolio.git) | [Demo](https://portfolio-weld-alpha-95.vercel.app/projects)
-
-- 🛒 **E-commerce MERN App** - Fullstack app có tính năng mua hàng, đăng nhập, giỏ hàng, admin panel.  
-  🔗 [Link GitHub](https://github.com/Hoangdev17/E_commerce_Web) | [Demo](https://e-commerce-web-git-master-hoangs-projects-5ed118ae.vercel.app/)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/hoangdev17/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin"/>
+  </a>
+  <a href="mailto:hoangluudev17@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🌐 Kết nối với mình
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ho%C3%A0ng-l%C6%B0u-826a12353/))
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hoangluudev17@gmail.com)
+<p align="center">
+  ✨ *“Clean code always looks like it was written by someone who cares.”*  
+</p>
